@@ -1,6 +1,6 @@
 import React, {useState} from "react";
 import { useClient} from '../constants/index'
-import { Grid,Button,Icon } from "@material-ui/core";
+import { Grid,Button} from "@material-ui/core";
 import MicIcon from "@material-ui/icons/Mic";
 import MicOffIcon from "@material-ui/icons/MicOff";
 import VideocamIcon from '@material-ui/icons/Videocam'

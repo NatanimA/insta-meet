@@ -1,5 +1,5 @@
 import React,{ useState,useEffect } from 'react'
-import { config,useClient,useMicrophoneAndCameraTracks,channelName, options} from '../constants/index'
+import { useClient,useMicrophoneAndCameraTracks,channelName, options} from '../constants/index'
 import { Grid } from '@material-ui/core'
 import Videos from './Videos'
 import Controls from './Controls'
